@@ -1,0 +1,13 @@
+
+
+
+JavaScript
+
+Finally, we implement the functionality of the budget app. For this we use javascript. We do this in six steps:
+
+Create initial references
+Implement function to set budget
+Function to disable Edit/Delete buttons
+Create a function to modify list items
+Create a function to create a list
+Implement function to calculate expenses and balance.
